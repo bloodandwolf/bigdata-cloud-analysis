@@ -1,0 +1,40 @@
+8,Operator Determined Barring 
+24,MBMS bearer capabilities insufficient for the service 
+25,LLC or SNDCP failure (A/Gb mode only)
+26,Insufficient resources 
+27,Missing or unknown APN 
+28,Unknown PDP address or PDP type
+29,User authentication failed 
+30,Activation rejected by GGSN, Serving GW or PDN GW 
+31,Activation rejected, unspecified
+32,Service option not supported
+33,Requested service option not subscribed
+34,Service option temporarily out of order
+35,NSAPI already used
+36,Regular deactivation
+37,QoS not accepted
+38,Network failure 
+39,Reactivation requested
+40,Feature not supported 
+41,semantic error in the TFT operation
+42,syntactical error in the TFT operation
+43,unknown PDP context
+44,semantic errors in packet filter(s)
+45,syntactical error in packet filter(s) 
+46,PDP context without TFT already activated
+47,Multicast group membership time-out
+48,Request rejected, Bearer Control Mode violation 
+50,PDP type IPv4 only allowed
+51,PDP type IPv6 only allowed 
+52,single address bearers only allowed
+56,Collision with network initiated request
+81,Invalid Transaction Identifier Value (0x51)
+95,Semantically Incorrect Message (0x5F)
+96,Invalid Mandatory Information (0x60)
+97,Message Type Non-existent or Not Implemented (0x61)
+98,Message Type Not Compatible with the Protocol State (0x62)
+99,Information Element Non-existent or Not Implemented (0x63)
+100,Conditional IE Error (0x64)
+101,Message Not Compatible With the Protocol State (0x65)
+111,Protocol Error, Unspecified (0x6F)
+112,APN Restriction Value Incompatible with Active PDP Context (0x70)
